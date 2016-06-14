@@ -46,6 +46,7 @@ Não Posso Mais
 Nap Power: Maximum
 Napolean Paced Mischeviously
 Napoleon's Penguin Mascot
+Napoleon's Pixelated Mugshot
 Napoleonic Panda Machine
 Napoleonic Political Magnificence
 Napping Panda Missionaries
@@ -417,7 +418,6 @@ Ninjas Practicing Multidimensionality
 Nirvana Playing Madonna
 Nit-Picking Manager
 Nitrate Processed Mincemeat
-Nitro Powered Motorcycles
 Nitrogen Peroxide Monoxide
 Nitrogen Poisonous Monoxide
 Nitrogenous Polymorphic Molecule
@@ -680,7 +680,6 @@ Numbers Prefer Multiplication
 Numeric Production Mechanism
 Numerous Packages Multiply
 Numerous Panicky Mimes
-Numerous Philanthropic Misanthropes
 Numerous Problems Multiplied
 Numerous Pulls Merged
 Numerous Pulsating Martians
